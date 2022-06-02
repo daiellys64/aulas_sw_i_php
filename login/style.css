@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 15%;
+    background-color:lavender;
+   
+}
+input{
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+
+}
